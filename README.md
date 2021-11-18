@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Ph.D. student in the Department of Computer and Information Science, University of Pennsylvania. My research interests center around single-cell genomics. I am currently working on robust objective optimization in biology problems.
+
 <!--
 **kuang-da/kuang-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
