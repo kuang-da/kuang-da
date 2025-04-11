@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a Ph.D. student in the Department of Computer and Information Science, University of Pennsylvania. My research interests center around single-cell genomics. I am currently working on robust objective optimization in biology problems.
+Hi! I am a final-year Ph.D. Candidate in the Department of Computer and Information Science at the University of Pennsylvania. My research focuses on deep learning and single-cell genomics, with a specific emphasis on reconstructing cell lineage trees using metric learning. I am also passionate about building data science tools to facilitate collaborative research.
+
 
 <!--
 **kuang-da/kuang-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
